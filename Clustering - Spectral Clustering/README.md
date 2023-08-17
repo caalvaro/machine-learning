@@ -6,7 +6,7 @@ Acesse o projeto aqui:
 
 ## Objetivo
 
-Estudar e explicar a utilidade da **Clusterização Espectral**. Esse projeto foi desenvolvido durante a disciplina de Álgebra Linear Aplicada da UFRJ.
+Estudar e explicar a utilidade de um método de clusterização não linear chamado **Clusterização Espectral**. Ele se baseia em Teoria dos Grafos e Álgebra Linear, tratando os dados com nós em um grafo e transformando o problema em determinar diferentes componentes conexas e usá-las como clusters. Esse projeto foi desenvolvido durante a disciplina de Álgebra Linear Aplicada da UFRJ.
 
 ## Ferramentas utilizadas
 Numpy, Matplotlib e Scikit-Learn
