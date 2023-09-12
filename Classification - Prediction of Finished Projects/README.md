@@ -1,4 +1,4 @@
-# Clusterização Espectral
+# Previsão de projetos finalizados
 
 Acesse o projeto aqui:
 
@@ -10,7 +10,7 @@ A partir de orçamentos de projetos de freelance, isto é, quantidade de horas d
 
 ## Ferramentas utilizadas
 
-Seaborn e Scikit-Learn
+Seaborn e Scikit-Learn (Classificação com LinearSVC, DummyClassifier e SVC. Separação de dados com train_test_split).
 
 ## Desafios e aprendizados
 
