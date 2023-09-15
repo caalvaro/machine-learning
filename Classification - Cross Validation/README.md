@@ -2,7 +2,7 @@
 
 Acesse o projeto aqui:
 
-[**Python Notebook - Validação Cruzada**](https://github.com/caalvaro/machine-learning/blob/main/Classification%20-%20Prediction%20of%20Finished%20Projects/Prediction_of_finished_projects.ipynb)
+[**Python Notebook - Validação Cruzada**](https://github.com/caalvaro/machine-learning/blob/main/Classification%20-%20Cross%20Validation/cross_validation.ipynb)
 
 ## Objetivo
 
